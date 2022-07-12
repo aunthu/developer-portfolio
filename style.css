@@ -64,3 +64,12 @@ h2{
     margin-right: 5%;
     padding: 20px;
 }
+.fullStack-webdev{
+    border-left: tomato 5px solid;
+}
+.baby-webdev{
+    border-left: blue 5px solid;
+}
+footer p{
+    text-align: center;
+}
